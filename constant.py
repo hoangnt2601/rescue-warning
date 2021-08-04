@@ -1,0 +1,1 @@
+global height,width
